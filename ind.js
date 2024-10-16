@@ -1,3 +1,3 @@
 function goToFacebook() {
-    window.location.href = "https://www.facebook.com/brainlessgrandpa";
+    window.location.href = "https://www.facebook.com/thegrandpaej";
 }
